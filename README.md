@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Who am I?
+Information Science student in Japan.
+Interested in AI, backend development, and data analysis.
 
-<!--
-**Python-arr1215/Python-arr1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What am I currently working on?
+・Web application development with Flask
+・Machine learning and data analysis using Python
+・Personal portfolio and automation projects
 
-Here are some ideas to get you started:
+Languages
+-Python
+-JavaScript
+-HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks / Libraries
+-Flask
+-Pandas / Matplotlib / scikit-learn
+
+Tools
+-Git & GitHub
+-Linux
+
+📫 How to reach me?
+GitHub: https://github.com/Python-arr1215
+Portfolio: https://portfolio-dsei.onrender.com/
