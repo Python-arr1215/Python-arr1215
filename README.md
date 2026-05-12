@@ -1,11 +1,11 @@
-👋 Who am I?  
-Information Science student in Japan.  
-Interested in AI, backend development, and data analysis.  
+👋 自己紹介  
+日本で情報科学を学んでいます。  
+AI、バックエンド開発、データ分析に興味があります。  
 
-🚀 What am I currently working on?  
-・Web application development with Flask  
-・Machine learning and data analysis using Python  
-・Personal portfolio and automation projects  
+🚀 現在取り組んでいること  
+・Flaskを使ったWebアプリケーション開発  
+・Pythonを用いた機械学習とデータ分析  
+・個人のポートフォリオや自動化プロジェクト  
 
 Languages  
 -Python  
@@ -20,6 +20,6 @@ Tools
 -Git & GitHub  
 -Linux  
 
-📫 How to reach me?  
+📫 連絡方法  
 GitHub: https://github.com/Python-arr1215  
 Portfolio: https://portfolio-dsei.onrender.com/  
